@@ -1,4 +1,4 @@
-# csgoff_adminka
+# csgoff_crud
 
 ## Project setup
 ```
