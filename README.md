@@ -1,4 +1,4 @@
-# crud_test
+# csgoff_adminka
 
 ## Project setup
 ```
